@@ -14,5 +14,5 @@ Student(int sno,String sname,String course,double fee) {
 public  void  display() {
   System.out.println("Sno "+ sno + "sname " + sname + "course "+ course + "fee " +fee);
 }
-siva nageswararao
+
 nageswararao
